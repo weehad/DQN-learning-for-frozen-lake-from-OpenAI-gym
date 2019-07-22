@@ -6,6 +6,7 @@ Agent learning how to get a best reward from slippery frozen-lake by DQN
 * Tensorflow-gpu 1.9.0
 * gym
 * numpy
+* matplotlib
 * random
 * scipy
 
